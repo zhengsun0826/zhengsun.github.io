@@ -5,7 +5,8 @@ author_profile: true
 permalink: /publications/
 ---
 
-## 2026
+For a complete list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=qTyMmu0AAAAJ&hl=zh-CN).
+
 
 1. **Sun, Z.**, Chen, C., Chen, Q., Zhang, J., Zhang, X., Liu, Y., Wang, S., Feng, T., Yan, X., & Qiao, R. (2026). Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earth's Third Pole. _The Innovation Geoscience_, 4(1), 100181. [DOI](https://doi.org/10.59717/j.xinn-geo.2026.100181)
 2. **Sun, Z.**, Feng, T., Niu, L, Shi, X., & Chen, Q. (2026). A review on estimation and regulation of sensitive ecological flow processes. _Journal of Hydraulic Engineering_. (in Chinese with English abstract). [DOI](https://doi.org/10.3724/j.slxb.20250627)
