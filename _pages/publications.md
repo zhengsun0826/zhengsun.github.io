@@ -16,15 +16,18 @@ For a complete list of my publications, please visit my [Google Scholar](https:/
 6. Wen, H.Y., **Sun, Z.**, Wu, H.Y., Hu, Y.M., & Zhang, G.L. (2026). Magnitude and causes of three decades of subtropical soil acidification after land use change. _Land Degradation & Development_, 37, 2255-2266. [DOI](https://doi.org/10.1002/ldr.70243)
 7. Wei, Y., Chen, Y., **Sun, Z.**, Wang, J., Yu, P., Bai, S., Gu, S., & Liu, Y. (2026). Spatial variation and driving relationship analysis of soil total nitrogen in plateau lake watershed: A case of Qilu Lake Basin in Yunnan. _Geographical Science_, 46(4), 902-915. (in Chinese with English abstract). [DOI](https://doi.org/10.13249/j.cnki.sgs.20240953)
 
+
 8. **Sun, Z.**, Liu, F., Yang, F., Wang, D., & Zhang, G.L. (2025). Spatial distributions, driving factors, and threshold effects of soil organic carbon stocks in the Tibetan Plateau. _Soil & Tillage Research_, 248, 106457. [DOI](https://doi.org/10.1016/j.still.2025.106457)
 9. Wen, H., Yang, F., **Sun, Z.**, Miao, Z., Hu, J., & Zhang, G. (2025). Asymmetric responses of soil organic carbon stability to shifting dominance of pH-mediated metal-bound organic carbon. _Communications Earth & Environment_, 6, 574. [DOI](https://doi.org/10.1038/s43247-025-02565-x)
 10. Qu, L., **Sun, Z.**, Tian, Z., Schoorl, J.M., Ma, R., Zhao, Y., Wu, Y., & Liang, Y. (2025). Climate-driven spatiotemporal variation of soil erodibility in China. _Environmental Impact Assessment Review_, 115, 107998. [DOI](https://doi.org/10.1016/j.eiar.2025.107998)
 11. Wen, H., **Sun, Z.**, Yang, F., & Zhang, G.L. (2025). Aridity regulates the vital drivers of soil organic carbon content in the Northeast China. _Catena_, 257, 109192. [DOI](https://doi.org/10.1016/j.catena.2025.109192)
 12. Liu, Y., Chen, C., Chen, Q., Zhang, J., **Sun, Z.**, Yan, X., & Huang, Q. (2025). Improve Carbon Budget Assessment in Floodplain Wetlands Using Hydrodynamic and Integrated Machine Learning Models. _Water Resources Research_, 61(10), e2025WR040128. [DOI](https://doi.org/10.1029/2025WR040128)
 
+
 13. **Sun, Z.**, Liu, F., Wu, H., & Zhang, G.L. (2024). Developing a national black soil map of China through machine learning classification. _Catena_, 240, 107993. [DOI](https://doi.org/10.1016/j.catena.2024.107993)
 14. Wang, J., Wei, Y., **Sun, Z.**, Gu, S., Bai, S., Chen, J., Chen, J., Hong, Y., & Chen, Y. (2024). Optimal Mapping of Soil Erodibility in a Plateau Lake Watershed: Empirical Models Empowered by Machine Learning. _Remote Sensing_, 16, 3017. [DOI](https://doi.org/10.3390/rs16163017)
 15. Song, M., Yang, S., **Sun, Z.**, Zeng, R., Jiang, Z., Song, X., & Zhang, G. (2024). Identification of Mollic Epipedon Using Random Forest and Digital Image Processing Methods. _Chinese Journal of Soil Science_, 55(6), 1501-1511. (in Chinese with English abstract). [DOI](https://doi.org/10.19336/j.cnki.trtb.2023121302)
+
 
 16. **Sun, Z.**, Liu, F., Wang, D., Wu, H., & Zhang, G. (2023). Improving 3D Digital Soil Mapping Based on Spatialized Lab Soil Spectral Information. _Remote Sensing_, 15, 5228. [DOI](https://doi.org/10.3390/rs15215228)
 17. **Sun, Z.**, Cao, Y., Liu, F., Wang, D., Zhang, G., & Wu, H. (2023). Classification and Human Health Risk Prediction of in-situ Leaching Site of Ionic Rare Earth Ore. _Chinese Journal of Soil Science_, 54(5), 1186-1195. (in Chinese with English abstract) . [DOI](https://doi.org/10.19336/j.cnki.trtb.2023010301)
